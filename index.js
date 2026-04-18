@@ -28,4 +28,4 @@ client.on('error', console.error);
 process.on('unhandledRejection', console.error);
 
 // Login
-client.login(process.env.TOKEN);
+console.log("MTQ5NTA5ODI1NjExMDI2MDQwNA.GWjZOr.Tty2-jcRrHb475lxgi90nrCJqRrb2JLYom_0Sg:", process.env.TOKEN);
